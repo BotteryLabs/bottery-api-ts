@@ -1,0 +1,14 @@
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+
+**/public
+
+**/.next
+
+**/tsconfig.json
+**/.eslintrc.cjs
+**/package-lock.json
+**/package.json
+**/README.md
